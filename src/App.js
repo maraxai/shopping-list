@@ -26,6 +26,8 @@ class App extends Component {
 
         return (
             <div className="container">
+                <br/>
+                <img src="md-favicon.png" />
                 <h1>Shopping List</h1>
                 <h2>Don't forget!</h2>
                 <Table
