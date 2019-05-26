@@ -21,3 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#src
+/src/App.test.js
+/src/indexCopy.css
+/src/serviceWorker
+src/App.css
